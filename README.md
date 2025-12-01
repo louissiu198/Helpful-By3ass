@@ -37,6 +37,7 @@
 - 🚫 Blocks websites with localhost alert page (port 4567)
 - 🔧 Configuration controlled remotely
 ![demo](./images/0x3.png)
+
 **Solution:**
 ```bash
 # Instead of removing, block its background activity
