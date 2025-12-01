@@ -18,7 +18,7 @@
 # Requires existing admin permissions
 1. Open "Directory Utility" 🗂️
 2. Unlock with admin credentials 🔓
-3. Search for school admin accounts (common names: _cadmin, hsadmin, hishkadmin)
+3. Search for school admin accounts (common names: _cadmin, *sadmin, *is**admin)
 4. Find "dsAttrTypeNative:IsHidden" attribute
 5. Change value from "1" to "0" to reveal user 👁️
 6. Change back to "1" to hide (useful for creating shadow admin accounts)
